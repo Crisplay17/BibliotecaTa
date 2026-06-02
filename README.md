@@ -1,1 +1,1 @@
-_*Proiectul de Disertatie*_
+# _Proiectul de Disertatie_
